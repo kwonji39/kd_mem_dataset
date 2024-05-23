@@ -1,0 +1,1 @@
+/scratch/gilbreth/kwon165/kd_/kd_memorization/src/temp/resnet18_s2_20240427-004303/checkpoints/200/model.pth
